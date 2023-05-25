@@ -2,6 +2,6 @@
 
 void main(){
 
-	printf("This is LTN");
+	printf("This is LTN!!!");
 
 }
